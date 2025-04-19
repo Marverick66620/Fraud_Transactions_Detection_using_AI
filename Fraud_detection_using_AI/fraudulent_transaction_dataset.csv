@@ -1,0 +1,151 @@
+userid,amount,location,multi_login_attempts,time,ip_address,device,change_in_personal_info,payment_type,beneficiary
+1,82764,Illegal Location,1,03:52,245.224.216.252,Old Device,TRUE,Credit Card,Yes
+2,17513,Lake Zachary,1,06:18,198.67.84.128,Old Device,FALSE,Netbanking,No
+3,38788,Port Randymouth,1,14:58,67.58.187.61,Old Device,FALSE,Credit Card,No
+4,52910,Davidbury,1,18:24,5.160.251.230,Old Device,FALSE,UPI,No
+5,78225,Illegal Location,9,03:52,235.205.255.228,New Device,TRUE,Credit Card,Yes
+6,46284,Williamsstad,1,11:11,126.45.123.153,Old Device,FALSE,Netbanking,No
+7,93145,Illegal Location,6,01:13,234.254.230.216,New Device,TRUE,Credit Card,Yes
+8,35172,Kevinburgh,1,20:00,160.8.48.200,Old Device,FALSE,Netbanking,No
+9,48783,Lake Joseph,1,20:38,212.178.175.167,Old Device,FALSE,UPI,No
+10,99324,Illegal Location,7,02:51,231.222.215.205,New Device,TRUE,Credit Card,Yes
+11,97593,Illegal Location,1,03:14,219.244.200.242,Old Device,TRUE,Credit Card,Yes
+12,75688,Illegal Location,9,03:41,249.200.223.224,New Device,TRUE,Credit Card,Yes
+13,12223,West Melanieview,1,06:29,59.219.75.38,Old Device,FALSE,Netbanking,No
+14,60890,Illegal Location,4,00:09,208.216.227.207,New Device,TRUE,Credit Card,Yes
+15,17268,Brandonhaven,1,10:34,53.12.37.54,Old Device,FALSE,Netbanking,No
+16,41676,Christianland,1,20:44,212.195.203.42,Old Device,FALSE,Netbanking,No
+17,62085,Clintonstad,1,13:47,196.243.183.177,Old Device,FALSE,Credit Card,Yes
+18,17233,Lynnshire,1,17:07,179.20.50.44,Old Device,FALSE,Netbanking,No
+19,58610,Adamsmouth,1,07:00,40.14.181.116,Old Device,FALSE,Netbanking,No
+20,69254,Illegal Location,1,02:20,252.228.214.243,Old Device,TRUE,Credit Card,Yes
+21,66452,Illegal Location,7,00:00,205.211.223.217,New Device,TRUE,Credit Card,Yes
+22,90853,Illegal Location,6,00:10,218.208.230.235,New Device,TRUE,Credit Card,Yes
+23,3264,Mossmouth,1,11:55,34.26.250.74,Old Device,FALSE,Netbanking,No
+24,51338,West Marymouth,1,11:08,54.141.173.64,Old Device,FALSE,UPI,No
+25,45807,New Ronald,1,13:53,146.56.192.134,Old Device,FALSE,UPI,No
+26,90098,Illegal Location,1,03:01,228.253.209.236,Old Device,FALSE,Credit Card,Yes
+27,84120,East Ryanmouth,1,12:50,113.201.223.4,Old Device,FALSE,Credit Card,Yes
+28,16166,Brandonhaven,1,14:56,37.105.244.72,Old Device,FALSE,Credit Card,No
+29,20174,North Shawn,1,15:02,36.151.232.70,Old Device,FALSE,Netbanking,No
+30,86154,Illegal Location,7,02:41,245.211.220.228,New Device,TRUE,Credit Card,Yes
+31,47760,Murphychester,1,20:37,168.165.196.203,Old Device,FALSE,Credit Card,No
+32,40819,Susanshire,1,19:05,63.196.230.74,Old Device,FALSE,Credit Card,No
+33,87127,Illegal Location,5,02:20,220.222.213.246,New Device,TRUE,Credit Card,Yes
+34,54046,West Tanya,1,15:17,66.9.60.240,Old Device,FALSE,UPI,No
+35,61927,Illegal Location,1,01:32,238.211.240.250,New Device,TRUE,Credit Card,Yes
+36,52637,Smithberg,1,11:21,165.142.14.16,Old Device,FALSE,Credit Card,No
+37,82140,Lake Stephanie,1,10:14,212.71.127.90,Old Device,FALSE,Credit Card,Yes
+38,17802,North Rebekah,1,14:49,38.202.99.243,Old Device,FALSE,UPI,No
+39,16763,Lake Scottview,1,06:44,49.218.59.204,Old Device,FALSE,UPI,No
+40,9928,Ramosside,1,11:59,201.73.30.152,Old Device,FALSE,Netbanking,No
+41,47061,Griffinhaven,1,14:13,83.173.77.212,Old Device,FALSE,Netbanking,No
+42,37773,Craighaven,1,07:14,180.100.44.210,Old Device,FALSE,UPI,No
+43,55652,Bakerside,1,06:10,148.135.235.15,Old Device,FALSE,Credit Card,No
+44,6531,New Johnland,1,10:35,215.182.18.42,Old Device,FALSE,Credit Card,No
+45,45261,Port Brookemouth,1,19:43,121.26.218.98,Old Device,FALSE,Netbanking,No
+46,31912,East Christine,1,14:35,40.185.185.248,Old Device,FALSE,UPI,No
+47,53950,Hooperstad,1,17:45,212.199.9.199,Old Device,FALSE,Credit Card,No
+48,65767,Illegal Location,3,02:52,249.202.221.218,New Device,TRUE,Credit Card,Yes
+49,35048,North Raymondfurt,1,13:39,115.154.204.232,Old Device,FALSE,Credit Card,No
+50,16807,Williamshire,1,17:08,110.228.90.12,Old Device,FALSE,Credit Card,No
+51,4636,Lindashire,1,12:59,105.117.243.13,Old Device,FALSE,UPI,No
+52,25339,South Richard,1,10:02,181.159.60.5,Old Device,FALSE,UPI,No
+53,88908,Illegal Location,4,03:13,250.209.223.208,New Device,TRUE,Credit Card,Yes
+54,77052,Illegal Location,1,14:50,204.247.201.246,Old Device,FALSE,Credit Card,Yes
+55,60605,Owenshaven,1,12:15,165.101.161.3,Old Device,FALSE,Credit Card,Yes
+56,98838,Illegal Location,1,02:04,212.220.248.202,New Device,TRUE,Credit Card,Yes
+57,48355,South Richardstad,1,17:45,158.244.187.32,Old Device,FALSE,Netbanking,No
+58,77584,Illegal Location,1,03:28,204.210.204.220,Old Device,FALSE,Credit Card,Yes
+59,83513,Illegal Location,1,03:30,200.218.220.212,Old Device,TRUE,Credit Card,Yes
+60,95656,Illegal Location,8,02:09,203.203.216.210,New Device,TRUE,Credit Card,Yes
+61,83337,Illegal Location,1,03:56,238.237.234.235,Old Device,FALSE,Credit Card,Yes
+62,55837,Amybury,1,12:54,222.116.149.124,Old Device,FALSE,Credit Card,No
+63,37830,Martinhaven,1,06:31,165.75.97.40,Old Device,FALSE,UPI,No
+64,38063,South Brandon,1,13:48,183.144.218.65,Old Device,FALSE,UPI,No
+65,79930,Illegal Location,9,02:52,219.235.239.250,New Device,TRUE,Credit Card,Yes
+66,76790,Illegal Location,3,03:25,204.233.217.242,New Device,TRUE,Credit Card,Yes
+67,50004,Cardenaston,1,16:29,90.114.65.106,Old Device,FALSE,UPI,No
+68,87914,Illegal Location,5,01:56,217.244.214.221,New Device,TRUE,Credit Card,Yes
+69,12128,East Dalton,1,21:01,154.210.254.62,Old Device,FALSE,Netbanking,No
+70,51134,Port Kathryn,1,06:22,154.161.186.199,Old Device,FALSE,Credit Card,No
+71,31145,Edwardtown,1,08:44,42.182.103.195,Old Device,FALSE,Credit Card,No
+72,44357,South Richard,1,15:25,200.142.147.54,Old Device,FALSE,Netbanking,No
+73,13626,Lake Christopher,1,12:25,153.255.122.119,Old Device,FALSE,UPI,No
+74,64269,Illegal Location,1,10:44,218.220.224.211,Old Device,FALSE,Credit Card,Yes
+75,4370,Masonport,1,12:05,181.74.231.120,Old Device,FALSE,UPI,No
+76,96304,East Sarahshire,1,18:57,35.27.179.101,Old Device,FALSE,Credit Card,Yes
+77,53261,Christopherberg,1,16:02,148.248.156.148,Old Device,FALSE,Credit Card,No
+78,61042,West Daniel,1,07:38,70.144.189.100,Old Device,FALSE,Credit Card,No
+79,50631,Torresmouth,1,12:35,112.185.89.173,Old Device,FALSE,UPI,No
+80,33664,Lake Casey,1,12:59,162.247.21.27,Old Device,FALSE,UPI,No
+81,91838,Illegal Location,6,02:01,228.214.234.239,New Device,TRUE,Credit Card,Yes
+82,68587,Illegal Location,5,02:03,245.255.234.252,New Device,TRUE,Credit Card,Yes
+83,4068,New Robert,1,08:52,59.89.138.88,Old Device,FALSE,Credit Card,No
+84,50710,Yoderton,1,21:22,113.58.250.31,Old Device,FALSE,UPI,No
+85,5060,North James,1,19:10,197.112.127.23,Old Device,FALSE,UPI,No
+86,64189,South Bethshire,1,13:14,95.221.165.104,Old Device,FALSE,Credit Card,Yes
+87,91919,North Dianaborough,1,17:55,94.100.160.63,Old Device,FALSE,Credit Card,No
+88,53524,Collierburgh,1,13:23,110.53.32.149,Old Device,FALSE,UPI,No
+89,5079,Kaiserstad,1,09:04,42.98.46.24,Old Device,FALSE,Netbanking,No
+90,29996,West Cassandramouth,1,17:59,189.215.62.219,Old Device,FALSE,Credit Card,No
+91,43477,Cookhaven,1,08:35,42.71.54.237,Old Device,FALSE,Netbanking,No
+92,37901,West Matthew,1,14:32,189.211.214.138,Old Device,FALSE,Credit Card,No
+93,7823,North Jason,1,21:53,135.3.235.161,Old Device,FALSE,UPI,No
+94,54869,Derrickview,1,16:26,68.168.6.86,Old Device,FALSE,UPI,No
+95,99394,Illegal Location,1,00:01,201.255.244.228,Old Device,TRUE,Credit Card,Yes
+96,34893,Guerrerohaven,1,08:17,27.145.93.157,Old Device,FALSE,Netbanking,No
+97,82452,Illegal Location,8,00:58,201.250.244.235,New Device,TRUE,Credit Card,Yes
+98,72354,Illegal Location,8,02:02,222.226.222.235,New Device,TRUE,Credit Card,Yes
+99,36006,Danielton,1,10:16,109.70.118.122,Old Device,FALSE,UPI,No
+100,35584,Colechester,1,12:38,88.23.42.89,Old Device,FALSE,Credit Card,No
+101,42437,Kelseychester,1,14:03,194.208.73.185,Old Device,FALSE,UPI,No
+102,87272,Illegal Location,3,03:32,236.230.202.244,New Device,TRUE,Credit Card,Yes
+103,43823,Lake Reginald,1,10:27,45.51.215.250,Old Device,FALSE,UPI,No
+104,68469,Illegal Location,1,10:09,5.249.92.188,Old Device,FALSE,Credit Card,Yes
+105,18117,Port Jennifer,1,17:27,88.221.90.159,Old Device,FALSE,Credit Card,No
+106,45700,Lake Rebeccaport,1,21:27,64.147.176.100,Old Device,FALSE,UPI,No
+107,38504,New Haley,1,08:06,106.224.74.12,Old Device,FALSE,Netbanking,No
+108,10125,West Alejandra,1,07:24,92.164.168.44,Old Device,FALSE,Netbanking,No
+109,39676,West William,1,17:18,84.157.247.33,Old Device,FALSE,UPI,No
+110,13821,South Michael,1,06:10,201.10.17.40,Old Device,FALSE,Credit Card,No
+111,26778,New Russell,1,08:08,48.32.238.156,Old Device,FALSE,Credit Card,No
+112,67268,Illegal Location,1,16:35,213.236.217.230,Old Device,FALSE,Credit Card,Yes
+113,21854,Lake Jenniferview,1,17:31,39.36.214.153,Old Device,FALSE,UPI,No
+114,89753,Illegal Location,1,18:26,208.190.241.235,Old Device,FALSE,Credit Card,Yes
+115,83046,Illegal Location,6,03:50,228.227.224.249,New Device,TRUE,Credit Card,Yes
+116,53749,Bryantberg,1,09:27,89.78.243.116,Old Device,FALSE,Credit Card,No
+117,59954,Michelleview,1,20:31,197.244.96.159,Old Device,FALSE,UPI,No
+118,97453,Illegal Location,1,16:52,249.247.232.253,Old Device,FALSE,Credit Card,Yes
+119,30699,Robertbury,1,20:40,214.217.184.42,Old Device,FALSE,Credit Card,No
+120,34977,South Melissa,1,18:17,204.45.102.24,Old Device,FALSE,Netbanking,No
+121,92854,Illegal Location,9,03:40,219.202.205.233,New Device,TRUE,Credit Card,Yes
+122,26322,Latashaburgh,1,17:21,158.179.254.132,Old Device,FALSE,Netbanking,No
+123,55392,Heathertown,1,09:18,152.102.95.133,Old Device,FALSE,Credit Card,No
+124,17636,Figueroabury,1,20:38,103.153.34.223,Old Device,FALSE,Netbanking,No
+125,93561,Illegal Location,4,00:56,251.217.245.253,New Device,TRUE,Credit Card,Yes
+126,71318,Illegal Location,1,00:44,216.230.255.229,Old Device,TRUE,Credit Card,Yes
+127,79673,Illegal Location,1,03:27,200.239.251.202,Old Device,FALSE,Credit Card,Yes
+128,32259,South Hunter,1,10:03,126.122.209.97,Old Device,FALSE,Credit Card,No
+129,89727,Illegal Location,9,01:48,246.249.226.240,New Device,TRUE,Credit Card,Yes
+130,24485,New Julie,1,18:40,108.64.136.184,Old Device,FALSE,Netbanking,No
+131,29050,Carrollland,1,12:21,117.169.248.199,Old Device,FALSE,UPI,No
+132,53204,New Anitashire,1,13:55,56.103.6.88,Old Device,FALSE,UPI,No
+133,44420,New Aaron,1,10:03,95.169.219.213,Old Device,FALSE,Netbanking,No
+134,48460,Danielchester,1,12:52,89.163.67.130,Old Device,FALSE,Netbanking,No
+135,48887,West Jessica,1,15:01,167.19.92.46,Old Device,FALSE,Netbanking,No
+136,73226,Illegal Location,1,18:04,254.240.255.212,Old Device,FALSE,Credit Card,Yes
+137,44441,Lake Cynthia,1,08:40,91.244.221.147,Old Device,FALSE,Credit Card,No
+138,7876,South Raymond,1,20:38,1.191.211.160,Old Device,FALSE,Netbanking,No
+139,59948,Alvaradoside,1,16:18,63.182.0.64,Old Device,FALSE,UPI,No
+140,66249,Francotown,1,07:51,216.50.25.213,Old Device,FALSE,Credit Card,Yes
+141,88216,Illegal Location,6,02:47,216.240.254.206,New Device,TRUE,Credit Card,Yes
+142,7073,West Maryport,1,19:43,76.239.170.123,Old Device,FALSE,Credit Card,No
+143,61658,Illegal Location,7,02:49,213.222.239.204,New Device,TRUE,Credit Card,Yes
+144,34060,Lake Hollyview,1,20:07,94.192.124.119,Old Device,FALSE,UPI,No
+145,42940,Matthewburgh,1,15:21,122.232.184.140,Old Device,FALSE,Credit Card,No
+146,37682,West Elizabeth,1,08:11,108.200.118.99,Old Device,FALSE,Netbanking,No
+147,23651,South Travisside,1,13:21,189.78.46.85,Old Device,FALSE,Credit Card,No
+148,61664,Illegal Location,1,15:46,246.245.209.203,Old Device,FALSE,Credit Card,Yes
+149,18986,Penahaven,1,12:06,81.198.187.51,Old Device,FALSE,UPI,No
+150,65373,Illegal Location,9,01:14,247.243.239.201,New Device,TRUE,Credit Card,Yes
